@@ -1,0 +1,1 @@
+This implementation of codeigniter contains the twitter bootstrap and PHP active record
